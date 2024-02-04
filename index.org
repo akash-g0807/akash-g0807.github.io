@@ -1,0 +1,24 @@
+#+TITLE: Welcome To Akash Gopinath's Website
+#+DESCRIPTION: Official Site of Akash Gopinath, Math Student
+#+AUTHOR: Akash Gopinath
+#+SETUPFILE: ./org-html-themes/org/theme-bigblow.setup
+#+OPTIONS: num:nil ^:{}
+
+* Home
+Welcome to my webspace. My name is Akash Gopinath. I am a second year math student studying the [[https://www.york.ac.uk/study/undergraduate/courses/mmath-mathematics/][MMath Mathematics]] integrated masters degree at degree at University of York.
+
+
+This website is mainly for personal use and serves as a hub for storing and hosting my mathematics notes, CV etc and for me to experiment more with org mode. This website is not likely going to contain anything of interest to the general audience.
+
+* Course Notes
+This section contains links to the various courses I have taken throughout my degree. There will be section that are incomplete/not added but I will complete them in due time as I polish my notes more and more.
+
+These are not official notes provided by the university and there might be some mistakes. If the reader finds any please email me at [[mailto:ag1884@york.a.uk][ag1884@york.ac.uk]]
+
+** First Year
++ [[./ips.org][Introduction to Probability and Statistics]]
+
+** Second Year
+*** Semester 1
++ [[./metric-spaces.org][Metric Spaces]]
++ [[./classical-dynamics.org][Classical Dynamics]]

@@ -1,0 +1,24 @@
+#+title: Introduction to Probability and Statistics
+#+DESCRIPTION: Probability and Statistics Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Pre Requisites
+The only requirement is a course on Calculus, Set Theory and Logic.
+
+* Reference Textbook
+The textbook referenced in this course was [[https://www.amazon.co.uk/Modern-Introduction-Probability-Statistics-Understanding/dp/1852338962/ref=sr_1_1?crid=3CCIB6UU05SM7&keywords=A+Modern+Introduction+to+Probability+and+Statistics+Understanding+Why+and+How&qid=1707072737&sprefix=,aps,120&sr=8-1][A Modern Introduction to Probability and Statistics: Understanding Why and How (Springer Texts in Statistics)]].
+
+*Note:* The chapter numbers follow the relevant chapter numbers in the textbook for easy reference.
+* Notes
+** Chapter 2: Outcomes, Events and Probability
+ This chapter is very important. It introduces the Axioms probability and various concepts such as events, sample spaces etc.
+ + [[./ips/02. Outcomes, events, probability.pdf][Outcomes, Events and Probability]]
+
+** Chapter 3: Conditional Probability and Independence
+This chapter introduces conditional probability, multiplication rule, Law of Total Probability, Bayes Theorem and Independence.
++ [[./ips/03_ Conditional Probability and Indepenance.pdf][Conditional Probability and Indepenance]]
+
+** Chapter 4: Discrete Random Variables
++ [[./ips/04_ Discrete Random Variables.pdf][Discrete Random Variables]]

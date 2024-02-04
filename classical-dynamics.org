@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       b81cb106-ea3b-477e-b588-9d56d4d4a72d
+:END:
+#+title: Classical Dynamics
+#+DESCRIPTION: Classical Dynamics Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+** Pre-Requisites
+Calculus, Multi-Variable Calculus and Basic Physics is assumed. Also it is helpful to know how to solve Differential Equations upto second order.
+* Topics Covered
+** Classical Dynamics
+1. Review of Vectors
+   + Basics of Vector Algebra
+   + Basis Vectors
+   + Scalar and Dot Products
+   + Summation Convention (Einstein's Notation)
+   + Alternating Tensors and Kronecker Delta
+   + Vector Equation of Planes
+   + Shifting and Rotating Basis Vectors
+2. Newtonian Dynamics
+   + Position, Velocity and Acceleration
+   + Basic Trajectories
+   + Polar Co-Ordinate Motion
+   + Newton's Laws and Equation of Motion
+   + Force and Energy
+   + Angular Momentum and Moments
+3. Collection of Particles
+4. Orbital Mechanics
+5. Lagrangian Mechanics and Calculus of Variations
+6. Hamiltonian Dynamics
+   + Poisson Brackets
+   + Symmetry
+   + Phase Portraits
+** Dynamical Systems
+1. First Order Autonomous Equations
+   + Fixed Points, Linearization and Flow Diagrams
+   + Bifurcation Diagrams
+   + Logistic Equations
+2. Linear 2-Dimensional Systems
+   + Classification of Fixed points and Phase Portraits
+   + Classification Diagram
+3. Non-Linear 2-Dimensional Systems
+   + Classification of fixed points
+   + Linearization Theorem and Linear Stability Analysis
+   + Null Clines and Phase Portraits
+
+* Notes
+** Classical Dynamics Notes
++ [[./classical_dynamics/Classical dynamics notes.pdf][Classical Dynamics Notes]]
+
+*** Lecture Notes
+These will be added to the main notes above in due time but the lecture notes below contain all the information.
++ [[./classical_dynamics/Lecture 13.pdf][Lecture 13]]: Continuation of Analysis of Spinning Tops using Lagrangian Mechanics
++ [[./classical_dynamics/Lecture 14.pdf][Lecture 14]]: Hamiltonian Mechanics and Poission Brackets
++ [[./classical_dynamics/Lecture 15.pdf][Lecture 15]]: Continuation of Poission Brackets and Normal Modes
++ [[./classical_dynamics/Lecture 16.pdf][Lecture 16]]: Phase Portraits and Symmetry
+
+* TODO
+- Polish notes and combine Lecture notes to main notes
+- Add Dynamical Systems Notes

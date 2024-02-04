@@ -1,0 +1,42 @@
+#+TITLE: Metric Spaces
+#+DESCRIPTION: Metric Spaces Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* What are Metric Spaces
+Metric Spaces denoted by $(X,d)$ is a set with a notion of *distance* between its elements. The distance function
+$$d: X \times X \rightarrow [0, \infty)$$
+is called the *metric* of set X.
+** Pre-requisites
+It is recommenced to have done an a course on Calculus and Real analysis before taking this course. Other than that, basic algebra is assumed.
+
+* Notes
+** Chapter 1: Inequalities.
+ This contains basic inequalities that needs to be known for this course and are used in various proofs.
+ + [[./metric_spaces/Inequalities.pdf][Inequalities]]
+
+** Chapter 2: Metric Spaces
+This chapter notes contains notes on the basics of metric spaces, some special metric spaces used throughout the course and some important results regarding metric
+Also introduces the notion of subspaces and isometries
++ [[./metric_spaces/2_Basics.pdf][Basics of Metric Spaces]]
+
+
+** Chapter 3: Topology of Metric Spaces
+Introduces notion of open balls, closed ball, open sets, closed sets and various definitions and properties.
++ [[./metric_spaces/3. Topology of Metric Spaces.pdf][Topology of Metric Spaces]]
+
+** Chapter 4: Sequences in Metric Spaces
+This chapter generalizes the notion of sequences and convergence from $\mathbb{R}$ to an abstract metric space.  We then define further properties of sequences like the Cauchy Property, Completeness, etc.
++ [[./metric_spaces/4. Sequences in Metric Spaces.pdf][Sequences in Metric Spaces]]
+
+** Chapter 5: Continuity
+This chapter generalizes the notion of continuity from $\mathbb{R}$ to an abstract metric space and give 5 equivalent definitions of continuity.
+Finally we look at contractions and the famous *Contraction Mapping Theorem*
+
+* TODO
+1. Continuity Notes Polish
+2. Connectedness Notes polish
+3. Compactness Notes Polish
+4. Affine Transformation Notes Polish
+5. Fractal Geomery Notes Polish
