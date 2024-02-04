@@ -44,4 +44,20 @@ This chapter introduces conditional probability, multiplication rule, Law of Tot
 ** Chapter 14: Central Limit Theorem
 + [[./ips/14_ Central Limit Theorem.pdf][Central Limit Theorem]]
 
-**
+** Chapter 17: Statistical Models
++ [[./ips/17_ Statistical Models.pdf][Statistical Models]]
+
+** Chapter 19: Unbiased Estimators
++ [[./ips/19_ Unbiased Estimators.pdf][Unbiased Estimators]]
+
+** Chapter 21: Maximum Likelihood
++ [[./ips/21_ Maximum Likelihood.pdf][Maximum Likelihood]]
+
+** Chapter 22: Simple Linear Regression
++ [[./ips/22_ Simple Linear Regression .pdf][Simple Linear Regression]]
+
+** Chapter 23: Confidence Intervals for the Mean
++ [[./ips/23_ Confidence intervals for the mean.pdf][Confidence Interavals for the Mean]]
+
+* TODO
+- Add some minor additions to Confidence Intervals for the Mean
