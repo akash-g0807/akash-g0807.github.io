@@ -13,6 +13,8 @@ This website is mainly for personal use and serves as a hub for storing and host
 * Course Notes
 This section contains links to the various courses I have taken throughout my degree. There will be section that are incomplete/not added but I will complete them in due time as I polish my notes more and more.
 
+Further I will add more and more course notes as I complete my notes on them so this is *NOT an exhaustive list* of all the courses I have taken.
+
 These are not official notes provided by the university and there might be some mistakes. If the reader finds any please email me at [[mailto:ag1884@york.a.uk][ag1884@york.ac.uk]]
 
 ** First Year

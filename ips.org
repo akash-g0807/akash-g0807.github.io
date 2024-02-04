@@ -22,3 +22,26 @@ This chapter introduces conditional probability, multiplication rule, Law of Tot
 
 ** Chapter 4: Discrete Random Variables
 + [[./ips/04_ Discrete Random Variables.pdf][Discrete Random Variables]]
+
+** Chapter 5: Continuous Random Variables
++ [[./ips/5. Continuous Random Variables.pdf][Continuous Random Variables]]
+
+** Chapter 7: Expectation and Variance
++ [[./ips/07_ Expectation abd Variance.pdf][Expectaion and Variance]]
+
+** Chapter 8: Computations with Random Variables
++ [[./ips/08_ Computations with random variables.pdf][Computations with Random Variables]]
+
+** Chapter 9: Joint Probability Distributions
++ [[./ips/09_ Joint Probability Distributions.pdf][Joint Probability Distributions]]
+
+** Chapter 10: Covariance and Correlation
++ [[./ips/10_ Covariance and Correlation.pdf][Covariance and Correlation]]
+
+** Chapter 13: Law of Large Numbers
++ [[./ips/13_ Law of large numbers.pdf][Law of Large Numbers]]
+
+** Chapter 14: Central Limit Theorem
++ [[./ips/14_ Central Limit Theorem.pdf][Central Limit Theorem]]
+
+**
