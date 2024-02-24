@@ -1,0 +1,25 @@
+#+TITLE: Quantum and Continuum Mechanics Notes
+#+DESCRIPTION:  Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Prerequisites
+It is recommend to have a course on Vector and Complex Calculus, Multi-variable Calculus, Differential Equations and Fourier Series
+
+* Structure
+This course is split into 3 parts
+
+1. Continuum (Wave) Mechanics
+2. Quantum Mechanics
+3. Fluid Mechanics
+
+* Notes
+
+** Continuum Mechanics
+
++ [[./Quantum & Continuum Dynamics/Wave Mechanics.pdf][Wave Mechanics]]
+
+
+* TODO
++ Polish Wave Mechanics notes

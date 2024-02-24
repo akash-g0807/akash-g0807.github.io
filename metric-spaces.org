@@ -18,9 +18,8 @@ It is recommenced to have done an a course on Calculus and Real analysis before 
 
 ** Chapter 2: Metric Spaces
 This chapter notes contains notes on the basics of metric spaces, some special metric spaces used throughout the course and some important results regarding metric
-Also introduces the notion of subspaces and isometries
+Also introduces the notion of sub-spaces and isometries
 + [[./metric_spaces/2_Basics.pdf][Basics of Metric Spaces]]
-
 
 ** Chapter 3: Topology of Metric Spaces
 Introduces notion of open balls, closed ball, open sets, closed sets and various definitions and properties.
@@ -39,4 +38,4 @@ Finally we look at contractions and the famous *Contraction Mapping Theorem*
 2. Connectedness Notes polish
 3. Compactness Notes Polish
 4. Affine Transformation Notes Polish
-5. Fractal Geomery Notes Polish
+5. Fractal Geometry Notes Polish

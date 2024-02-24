@@ -11,7 +11,7 @@ Welcome to my webspace. My name is Akash Gopinath. I am a second year math stude
 This website is mainly for personal use and serves as a hub for storing and hosting my mathematics notes, CV etc and for me to experiment more with org mode. This website is not likely going to contain anything of interest to the general audience.
 
 * Course Notes
-This section contains links to the various courses I have taken throughout my degree. There will be section that are incomplete/not added but I will complete them in due time as I polish my notes more and more.
+This section contains links to the various courses I have taken throughout my degree. There will be section that are incomplete/not added but I will complete them in due time as I polish my notes more and more. Further just because I have not uploaded notes does not mean I do not have notes, I will upload them once I am able to perfect them.
 
 Further I will add more and more course notes as I complete my notes on them so this is *NOT an exhaustive list* of all the courses I have taken.
 
@@ -19,8 +19,19 @@ These are not official notes provided by the university and there might be some 
 
 ** First Year
 + [[./ips.org][Introduction to Probability and Statistics]]
++ Calculus
++ [[./algebra.org][Algebra]] (Complex Numbers, Number Theory, Vectors, Polynomials and Basic Linear Algebra)
++ Real Analysis
++ [[./iam.org][Introduction to Applied Mathematics]]
++ Set Theory, Logic, Group Theory and Relations
 
 ** Second Year
 *** Semester 1
 + [[./metric-spaces.org][Metric Spaces]]
 + [[./classical-dynamics.org][Classical Dynamics]]
++ Vector and Complex Calculus
+
+*** Semester 2
++ Abstract Algebra (Groups, Rings and Fields)
++ [[./quantum_continuum.org][Quantum and Continuum Dynamics]]
++ Linear Algebra

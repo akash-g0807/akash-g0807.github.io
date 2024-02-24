@@ -1,0 +1,20 @@
+#+title: Algebra
+#+DESCRIPTION: Algebra Notes Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Complex Numbers
++ [[./algebra/1_ Complex Numbers.pdf][Complex Numbers]]
+
+* Number Theory
++ [[./algebra/2_ Number Theory.pdf][Number Theory]]
+
+* Polynomials
++ [[./algebra/3_ Polynomials.pdf][Polynomials]]
+
+* Vectors
++ [[./algebra/4_ Vectors.pdf][Vectors]]
+
+* TODO
+- Add Linear Algebra Notes

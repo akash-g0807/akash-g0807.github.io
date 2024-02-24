@@ -1,0 +1,39 @@
+#+title: Introduction to Applied Mathematics
+#+DESCRIPTION: Applied Mathematics Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Pre Requisites
+A course on Calculus, Differential Equations and Fourier Series is recommended.
+
+This course is split into two parts.
+
+1. Introduction to Mechanics
+2. Introduction to Mathematical Modelling
+
+* Introduction to Mechanics
+
+** Chapter 1: Preliminaries
+Covered basics of Vectors, Differential Equations and Dimensional Analysis
+
++ [[./iam/1_ Preliminaries.pdf][Preliminaries]]
+
+** Chapter 2: Equations of Motion
+
++ [[./iam/2_ Equations of Motion.pdf][Equations of Motion]]
+
+** Chapter 3: Solutions for 1D Motion
+
++ [[./iam/3_ Solutions for Motion 1D.pdf][Solutions of Motion in 1D]]
+
+** Chapter 4: Solutions for 2D Motion
+
++ [[./iam/4_ Solutions to Motion in 2D.pdf][Solutions of Motion in 2D]]
+
+** Chapter 5: Polar Coordinates
+
++ [[./iam/5_ Polar Coordinates.pdf][Motion in Polar Coordinates]]
+
+* TODO
++ Add Mathematical Modelling Notes
