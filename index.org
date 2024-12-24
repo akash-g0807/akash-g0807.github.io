@@ -32,7 +32,7 @@ These are not official notes provided by the university and there might be some 
 + Vector and Complex Calculus
 
 *** Semester 2
-+ [[./abstract_algebra.org][Abstract Algebra (Groups, Rigs and Fields)]]
++ [[./abstract_algebra.org][Abstract Algebra (Groups, Rings and Fields)]]
 + [[./quantum_continuum.org][Quantum and Continuum Dynamics]]
 + [[./linear-algebra.org][Linear Algebra]]
 
