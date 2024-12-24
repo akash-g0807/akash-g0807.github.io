@@ -1,0 +1,22 @@
+#+title: Linear Algebra
+#+DESCRIPTION: Linear Algebra Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Pre-requisites
+1st year course on Algebra and Matrices is recommended as well as a course on proof and set theory
+
+** Structure
+This course was split into 2 sections
+1. Linear Algebra on $\mathbb{F}^{n}$ spaces
+2. Linear Algebra on General Vector spaces
+
+
+* Notes
+
+1. [[./linear_algebra/1. Linear Algebra.pdf][Linear Algebra]]
+2. [[./linear_algebra/2. Abstract Linear Algebra.pdf][Abstract Linear Algebra]]
+
+* TODO
++ Add more examples for Jordan Normal Form

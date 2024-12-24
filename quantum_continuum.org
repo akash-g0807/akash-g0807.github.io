@@ -1,5 +1,5 @@
 #+TITLE: Quantum and Continuum Mechanics Notes
-#+DESCRIPTION:  Notes
+#+DESCRIPTION:  Quantum and Continuum Mechanics Notes
 #+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
 #+AUTHOR: Akash Gopinath
 #+OPTIONS: num:nil ^:{}
@@ -17,9 +17,13 @@ This course is split into 3 parts
 * Notes
 
 ** Continuum Mechanics
-
 + [[./Quantum & Continuum Dynamics/Wave Mechanics.pdf][Wave Mechanics]]
+
+** Quantum Mechanics
++ [[./Quantum & Continuum Dynamics/Quantum Mechanics.pdf][Quantum Mechanics]]
 
 
 * TODO
 + Polish Wave Mechanics notes
++ Add a part on 2D Hydrogen Atom
++ Add Fluid Mechanics Notes

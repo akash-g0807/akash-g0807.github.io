@@ -1,0 +1,18 @@
+#+title: Abstract Algebra
+#+DESCRIPTION: Groups, Rings and Fields Notes
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Prerequisites
+Recommended to have done a course on Proofs, Logic, Set Theory and Basic Number Theory.
+** Structure:
+Split into three parts:
++ Group Theory
++ Rings and Fields
+
+* Part 1: Group Theory
++ [[./abstract_algebra/1. Group Theory.pdf][Group Theory]]
+
+* Part 2: Rings and Fields
++ [[./abstract_algebra/2. Rings and Fields.pdf][Rings and Fields]]

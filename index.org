@@ -15,7 +15,7 @@ This section contains links to the various courses I have taken throughout my de
 
 Further I will add more and more course notes as I complete my notes on them so this is *NOT an exhaustive list* of all the courses I have taken.
 
-These are not official notes provided by the university and there might be some mistakes. If the reader finds any please email me at [[mailto:ag1884@york.a.uk][ag1884@york.ac.uk]]
+These are not official notes provided by the university and there might be some mistakes. If the reader finds any please email me at [[mailto:ag1884@york.ac.uk][ag1884@york.ac.uk]]
 
 ** First Year
 + [[./ips.org][Introduction to Probability and Statistics]]
@@ -32,6 +32,6 @@ These are not official notes provided by the university and there might be some 
 + Vector and Complex Calculus
 
 *** Semester 2
-+ Abstract Algebra (Groups, Rings and Fields)
++ [[./abstract_algebra.org][Abstract Algebra (Groups, Rigs and Fields)]]
 + [[./quantum_continuum.org][Quantum and Continuum Dynamics]]
-+ Linear Algebra
++ [[./linear-algebra.org][Linear Algebra]]
