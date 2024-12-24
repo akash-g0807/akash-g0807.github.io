@@ -35,3 +35,9 @@ These are not official notes provided by the university and there might be some 
 + [[./abstract_algebra.org][Abstract Algebra (Groups, Rigs and Fields)]]
 + [[./quantum_continuum.org][Quantum and Continuum Dynamics]]
 + [[./linear-algebra.org][Linear Algebra]]
+
+** Third Year
+*** Semester 1
++ [[./group_actions_galois.org][Group Actions and Galois Theory]]
++ Measure Theory and Integration
++ Point Set Topology and Algebraic Topology

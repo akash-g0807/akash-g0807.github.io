@@ -1,0 +1,15 @@
+#+title: Group Actions and Galois Theory
+#+DESCRIPTION: Group Actions and Galois Theory
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+** Pre-Requisites
+Make sure to know all of the material from Abstract Algebra course from Year 2.
+
+* Topics covered
+** Group Actions
+1. Group Actions
+2. Orbits and Stabilizers
+3. Counting Orbits and Burnside Theorem
+4. Conjugacy
