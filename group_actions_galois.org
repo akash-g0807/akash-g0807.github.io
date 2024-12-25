@@ -12,4 +12,31 @@ Make sure to know all of the material from Abstract Algebra course from Year 2.
 1. Group Actions
 2. Orbits and Stabilizers
 3. Counting Orbits and Burnside Theorem
-4. Conjugacy
+4. Sylow Theorems
+5. Conjugacy
+6. Counting Orbits using Conjugacy Classes
+7. Subgroup Lattices
+
+** Galois Theory
+1. Recap of Rings and Polynomial Rings (Irreducibility of Polynomials)
+2. Fields and Field Extensions
+3. Quotients of Rings
+4. Field Construction
+5. Constructibility I
+6. Vector Spaces and Degrees
+7. Constructibility II
+8. Splitting Fields
+9. Very Brief Groups Recap
+10. Galois Groups
+11. Not Solving Equations (i.e. Galois Theorem)
+
+* Notes
+** Group Actions Notes
++ [[./group_actions/group_actions.pdf][Group Actions Notes]]
+** Galois Theory Notes
+
+
+* TODO
+- Add a section on solubility
+- Maybe add a chapter on simple groups
+- Maybe add a section on homomorphisms on groups recap section although it is already covered in Year 2 notes
