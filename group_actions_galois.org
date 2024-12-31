@@ -33,6 +33,7 @@ Make sure to know all of the material from Abstract Algebra course from Year 2.
 * Notes
 ** Group Actions Notes
 + [[./group_actions/group_actions.pdf][Group Actions Notes]]
++ [[./group_actions/galois_theory.pdf][Galois Theory Notes]]
 ** Galois Theory Notes
 
 
