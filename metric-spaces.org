@@ -32,6 +32,7 @@ This chapter generalizes the notion of sequences and convergence from $\mathbb{R
 ** Chapter 5: Continuity
 This chapter generalizes the notion of continuity from $\mathbb{R}$ to an abstract metric space and give 5 equivalent definitions of continuity.
 Finally we look at contractions and the famous *Contraction Mapping Theorem*
++ [[./metric_spaces/5. Continuity.pdf][Continuity]]
 
 ** Chapter 6: Compact Spaces
 
