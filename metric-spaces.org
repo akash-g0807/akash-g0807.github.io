@@ -35,6 +35,8 @@ Finally we look at contractions and the famous *Contraction Mapping Theorem*
 + [[./metric_spaces/5. Continuity.pdf][Continuity]]
 
 ** Chapter 6: Compact Spaces
+Introduces notions of Compactness and Sequential compactness. Also generalizing Bolzano Weirstrass Theorem and Heine Borel Theorem.
+
 
 ** Chapter 7: Connectedness
 
