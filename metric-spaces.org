@@ -39,6 +39,7 @@ Introduces notions of Compactness and Sequential compactness. Also generalizing 
 
 
 ** Chapter 7: Connectedness
+Introduces the notion of connectedness
 
 
 * TODO
