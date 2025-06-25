@@ -33,6 +33,11 @@ This chapter generalizes the notion of sequences and convergence from $\mathbb{R
 This chapter generalizes the notion of continuity from $\mathbb{R}$ to an abstract metric space and give 5 equivalent definitions of continuity.
 Finally we look at contractions and the famous *Contraction Mapping Theorem*
 
+** Chapter 6: Compact Spaces
+
+** Chapter 7: Connectedness
+
+
 * TODO
 1. Continuity Notes Polish
 2. Connectedness Notes polish
