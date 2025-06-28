@@ -1,0 +1,11 @@
+#+TITLE: Set Theory, Functions and Logic
+#+DESCRIPTION: Set Theory, Functions and Logic
+#+SETUPFILE: ./org-html-themes/org/theme-readtheorg.setup
+#+AUTHOR: Akash Gopinath
+#+OPTIONS: num:nil ^:{}
+
+* Set Theory and Functions
+
+Intrdoducing the basic notions of set theory and functions between sets.
+
++ [[./sets/1. Sets and Fuctions.pdf][Set Theory and Functions]]

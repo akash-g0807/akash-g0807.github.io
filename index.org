@@ -22,7 +22,7 @@ These are not official notes provided by the university and there might be some 
 + [[./algebra.org][Algebra]] (Complex Numbers, Number Theory, Vectors, Polynomials and Basic Linear Algebra)
 + Real Analysis
 + [[./iam.org][Introduction to Applied Mathematics]]
-+ Set Theory, Logic, Group Theory and Relations
++ [[./set_theory.org][Set Theory, Logic, Group Theory and Relations]]
 
 ** Second Year
 *** Semester 1

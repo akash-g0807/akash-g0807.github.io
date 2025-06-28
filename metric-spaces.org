@@ -7,7 +7,7 @@
 * What are Metric Spaces
 Metric Spaces denoted by $(X,d)$ is a set with a notion of *distance* between its elements. The distance function
 $$d: X \times X \rightarrow [0, \infty)$$
-is called the *metric* of set X.
+is called the *metric* of set $X$.
 ** Pre-requisites
 It is recommenced to have done an a course on Calculus and Real analysis before taking this course. Other than that, basic algebra is assumed.
 
@@ -43,8 +43,7 @@ Introduces the notion of connectedness
 
 
 * TODO
-1. Continuity Notes Polish
-2. Connectedness Notes polish
-3. Compactness Notes Polish
-4. Affine Transformation Notes Polish
-5. Fractal Geometry Notes Polish
+1. Connectedness Notes polish
+2. Compactness Notes Polish
+3. Affine Transformation Notes Polish
+4. Fractal Geometry Notes Polish
